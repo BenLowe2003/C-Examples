@@ -1,0 +1,4 @@
+﻿  WhatTimeIsIt.cpp
+C:\Users\benst\OneDrive\Documents\University\Year2\CodingPractice\C++\WhatTimeIsIt\WhatTimeIsIt\WhatTimeIsIt.cpp(13,12): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\benst\OneDrive\Documents\University\Year2\CodingPractice\C++\WhatTimeIsIt\WhatTimeIsIt\WhatTimeIsIt.cpp(14,11): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  WhatTimeIsIt.vcxproj -> C:\Users\benst\OneDrive\Documents\University\Year2\CodingPractice\C++\WhatTimeIsIt\x64\Debug\WhatTimeIsIt.exe
